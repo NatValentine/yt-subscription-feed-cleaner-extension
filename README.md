@@ -24,6 +24,6 @@ New: With the move of the Wan Show to the ex LMG Clips channel, my feed is flood
 
 
 ## Installation
-Load temporarily via about:debugging
+[Get it from the Firefox Add-on Store](https://addons.mozilla.org/es-AR/firefox/addon/yt-subscription-feed-cleaner/)
 
-Coming soon to the Firefox Add-ons store!
+Or load temporarily via about:debugging
